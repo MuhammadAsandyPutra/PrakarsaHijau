@@ -4,7 +4,7 @@ export const NavBar = () => {
     return (
         <Box bg="green" w="100%" p={4} color={"white"}>
             <Flex>
-                <Text m="10px">Foto PrakarsaHijau</Text>
+                <Text m="10px">PrakarsaHijau</Text>
             <HStack spacing="24px" ml="20%">
                 <Box>
                     Home
